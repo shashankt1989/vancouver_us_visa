@@ -1,0 +1,3 @@
+- update USERNAME and PASSWORD in contentScript.js
+- update APPOINTMENT_URL in background.js - replace with url showing up for appointment after logging in
+- load extension in chrome - scheduling details in chrome.runtime.onInstalled.addListener()
